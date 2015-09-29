@@ -1,5 +1,5 @@
 # module
-app/code/core/MatheusGontijo/EasyShippingRules             app/code/core/MatheusGontijo/EasyShippingRules
+app/code/community/MatheusGontijo/EasyShippingRules             app/code/community/MatheusGontijo/EasyShippingRules
 app/etc/modules/MatheusGontijo_EasyShippingRules.xml       app/etc/modules/
 
 # design
