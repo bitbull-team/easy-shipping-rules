@@ -1,0 +1,15 @@
+# module
+app/code/core/MatheusGontijo/EasyShippingRules             app/code/core/MatheusGontijo/EasyShippingRules
+app/etc/modules/MatheusGontijo_EasyShippingRules.xml       app/etc/modules/
+
+# design
+app/design/adminhtml/default/default/layout/easyshippingrules.xml  app/design/adminhtml/default/default/layout/easyshippingrules.xml
+
+# locales
+app/locale/en_US/*      app/locale/en_US/
+app/locale/de_DE/*      app/locale/de_DE/
+app/locale/es_ES/*      app/locale/es_ES/
+app/locale/fr_FR/*      app/locale/fr_FR/
+app/locale/he_IL/*      app/locale/he_IL/
+app/locale/hi_IN/*      app/locale/hi_IN/
+app/locale/pt_BR/*      app/locale/pt_BR/

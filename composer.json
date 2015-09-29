@@ -1,0 +1,14 @@
+{
+    "name": "matheusgontijo/easy_shipping_rules",
+    "license":"OSL v3.0",
+    "type": "magento-module",
+    "description": "Flexibility in Magento eCommerce Shipping through Admin area.",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name": "Matheus Gontijo"
+        }
+    ]
+}
